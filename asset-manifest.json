@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-reader-with-ls/static/css/main.7acaea2f.css",
-    "main.js": "/react-reader-with-ls/static/js/main.0e9e6c48.js",
+    "main.js": "/react-reader-with-ls/static/js/main.5e0abc9f.js",
     "index.html": "/react-reader-with-ls/index.html",
     "main.7acaea2f.css.map": "/react-reader-with-ls/static/css/main.7acaea2f.css.map",
-    "main.0e9e6c48.js.map": "/react-reader-with-ls/static/js/main.0e9e6c48.js.map"
+    "main.5e0abc9f.js.map": "/react-reader-with-ls/static/js/main.5e0abc9f.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.0e9e6c48.js"
+    "static/js/main.5e0abc9f.js"
   ]
 }
