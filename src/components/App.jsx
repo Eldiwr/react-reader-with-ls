@@ -1,16 +1,10 @@
+import { Reader } from "./Reader/Reader";
+import data from "./Reader/ReaderData.json";
+
 export const App = () => {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
-    </div>
+    <>
+      <Reader data={data} />
+    </>
   );
 };
